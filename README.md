@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hero.png" alt="Coding Banner" width="900"/>
+  <img src="https://www.freepik.com/free-photos-vectors/software-development-banner" alt="Coding Banner" width="900"/>
 </p>  
 
 <p align="center">

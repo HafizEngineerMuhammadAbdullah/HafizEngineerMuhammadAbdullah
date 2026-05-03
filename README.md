@@ -7,7 +7,10 @@
 <p align="center">
   <img src="./assets/hero.png" alt="Coding Banner" width="900"/>
 </p>  
-🚀 Passionate about building real-world projects using HTML, CSS, JavaScript & React  
+
+<p align="center">
+  Passionate about building real-world web applications using HTML, CSS, JavaScript & React ⚡
+</p> 
 
 ---
 

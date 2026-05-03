@@ -52,9 +52,9 @@ Frontend UI with product cards and timers
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your-email@gmail.com  
+- GitHub:  https://github.com/HafizEngineerMuhammadAbdullah
+- LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-360a87384/  
+- Email: abdullahkhalid2k25@gmail.com  
 
 ---
 

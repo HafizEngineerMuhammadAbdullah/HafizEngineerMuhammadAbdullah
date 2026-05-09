@@ -5,8 +5,8 @@
 </p>
 
 <p align="right">
-  <img src="https://giphy.com/explore/information-technologies" alt="Coding Banner" width="900"/>
-</p>  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF"/>
+</p> 
 
 <p align="center">
   Passionate about building real-world web applications using HTML, CSS, JavaScript & React ⚡

@@ -5,7 +5,7 @@
 </p>
 
 <p align="right">
-  <img src="C:\Users\A1\Desktop\Task Folder\portfolio.gif" alt="Coding Banner" width="900"/>
+  <img src="https://giphy.com/explore/information-technologies" alt="Coding Banner" width="900"/>
 </p>  
 
 <p align="center">

@@ -4,7 +4,7 @@
   Frontend Developer | JavaScript Enthusiast | Problem Solver
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF"/>
 </p> 
 

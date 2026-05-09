@@ -4,8 +4,8 @@
   Frontend Developer | JavaScript Enthusiast | Problem Solver
 </p>
 
-<p align="center">
-  <img src="https://www.freepik.com/free-photos-vectors/software-development-banner" alt="Coding Banner" width="900"/>
+<p align="right">
+  <img src="C:\Users\A1\Desktop\Task Folder\portfolio.gif" alt="Coding Banner" width="900"/>
 </p>  
 
 <p align="center">

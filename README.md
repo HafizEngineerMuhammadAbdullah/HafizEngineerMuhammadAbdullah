@@ -24,13 +24,18 @@
 ---
 
 ## ⚒️ Languages & Tools
-![C](https://img.shields.io/badge/C-Programming-blue?logo=c)
 
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML5
 
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS3
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> Bootstrap
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> Tailwind CSS
 - HTML5  
 - CSS3 (Flexbox, Grid, Animations)
 - GSAP(Javascript Animation Library)

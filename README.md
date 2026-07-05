@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently working on frontend projects
-- 🌱 Learning JavaScript, React,GSAP & DSA
+- 🌱 Learning JavaScript, React,GSAP,DSA & Leetcode Enthusiast
 - 🎯 Goal: Become a Full Stack Developer
 - 💡 I love building interactive web apps
 

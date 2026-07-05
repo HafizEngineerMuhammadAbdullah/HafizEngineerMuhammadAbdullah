@@ -16,9 +16,11 @@
 <br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400" alt="Coding GIF"/>
 </p> 
 
+<br />
+<br />
 <p align="center">
   Passionate about building real-world web applications using HTML, CSS, JavaScript & React ⚡
 </p> 

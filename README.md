@@ -7,13 +7,17 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=50&lines=Frontend+Developer+%7C+JavaScript;React+%7C+GSAP+%7C+Problem+Solver;DSA+&+Leetcode+Enthusiast" style="z-index: 1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=50&lines=Frontend+Developer+%7C+JavaScript;React+%7C+GSAP+%7C+Problem+Solver;DSA+%26+Leetcode+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <br />
 <br />
 <br />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400" alt="Coding GIF"/>
+</p> 
 
 <br />
 <br />
@@ -25,7 +29,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on frontend projects
+- 🔭 I'm currently working on frontend projects
 - 🌱 Learning JavaScript, React,GSAP,DSA & Leetcode Enthusiast
 - 🎯 Goal: Become a Full Stack Developer
 - 💡 I love building interactive web apps
@@ -100,7 +104,7 @@ An interactive Tic-Tac-Toe game built using JavaScript.
 . Win Detection
 . Reset Functionality
 
-### 🎮 Rock Paper Scissors Game(https://github.com/HafizEngineerMuhammadAbdullah/MyRock-Paper-ScissorGame)
+### 🎮 [Rock Paper Scissors Game](https://github.com/HafizEngineerMuhammadAbdullah/MyRock-Paper-ScissorGame)
 A simple JavaScript game based on logic building and DOM manipulation.
 
 👉 Features
@@ -108,7 +112,7 @@ A simple JavaScript game based on logic building and DOM manipulation.
 . Dynamic UI
 . Interactive Gameplay
 
-### ⏱️ Stopwatch App(https://github.com/HafizEngineerMuhammadAbdullah/MyStopWatch)
+### ⏱️ [Stopwatch App](https://github.com/HafizEngineerMuhammadAbdullah/MyStopWatch)
 A fully functional stopwatch application.
 
 👉 Features
@@ -130,7 +134,7 @@ A fully functional stopwatch application.
 
 ---
 ⭐ Quote 
-- “Consistency is more important than perfection”
+- "Consistency is more important than perfection"
 
 - ⚡ Fun Fact
 I enjoy turning creative ideas into interactive web experiences 🚀

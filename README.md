@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=300&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B+JavaScript+Enthusiast;%F0%9F%A7%A0+DSA+%26+Leetcode+Enthusiast" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=300&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B+JavaScript+Enthusiast;⚛️+React+Developer&center=true&vCenter=true" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 ### ✨ Animation & Libraries
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50" height="50" alt="GSAP"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/logo.svg" width="50" height="50" alt="Framer Motion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="50" height="50" alt="Framer Motion"/>
   <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" width="50" height="50" alt="Three.js"/>
 </p>
 

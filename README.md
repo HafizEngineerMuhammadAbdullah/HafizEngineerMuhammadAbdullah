@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=50&lines=Frontend+Developer+%7C+JavaScript;React+%7C+GSAP+%7C+Problem+Solver;DSA+%26+Leetcode+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=50&lines=Frontend+Developer+%7C+JavaScript;React+%7C+GSAP+%7C+Problem+Solver" alt="Typing Animation"/>
   </a>
 </p>
 
@@ -122,7 +122,7 @@ A fully functional stopwatch application.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafizEngineerMuhammadAbdullah&show_icons=true&theme=radical)
 
 ---
 

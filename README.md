@@ -26,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&lines=💻+Frontend+Developer;⚛️+React+%7C+JavaScript;✨+GSAP+Animation;🎬+Framer+Motion;🌐+Three.js;🚀+Web+Developer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+JavaScript;%E2%9C%A8+GSAP+Animation;%F0%9F%8E%AC+Framer+Motion;%F0%9F%8C%90+Three.js;%F0%9F%9A%80+Web+Developer&textType=typing&repeat=true&vlist=true" alt="Typing SVG"/>
   </a>
 </p>
 

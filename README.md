@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<style>
+.wave {
+  animation: wave 2s infinite;
+}
+
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Muhammad Abdullah</h1>
 
 <p align="center">
   Frontend Developer | JavaScript Enthusiast | Problem Solver

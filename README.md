@@ -1,23 +1,4 @@
-<style>
-.wave {
-  animation: wave 2s infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Muhammad Abdullah</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="30">, I'm Muhammad Abdullah</h1>
 
 <p align="center">
   Frontend Developer | JavaScript Enthusiast | Problem Solver
@@ -26,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+JavaScript;%E2%9C%A8+GSAP+Animation;%F0%9F%8E%AC+Framer+Motion;%F0%9F%8C%90+Three.js;%F0%9F%9A%80+Web+Developer&textType=typing&repeat=true&vlist=true" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+Developer;%F0%9F%92%A8+JavaScript+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 

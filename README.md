@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="30">, I'm Muhammad Abdullah</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Muhammad Abdullah</h1>
 
 <p align="center">
   Frontend Developer | JavaScript Enthusiast | Problem Solver
@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+Developer;%F0%9F%92%A8+JavaScript+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=100&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;%E2%9A%9B%EF%B8%8F+React+Developer;%F0%9F%9A%80+JavaScript+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 

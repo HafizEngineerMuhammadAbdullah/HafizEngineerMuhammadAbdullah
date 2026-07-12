@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&height=100&lines=Frontend+Developer+%7C+JavaScript;React+%7C+GSAP+%7C+Problem+Solver"  alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&lines=💻+Frontend+Developer;⚛️+React+%7C+JavaScript;✨+GSAP+Animations;🎯+Problem+Solver&color=00FF00&background=0D1117" alt="Coding GIF"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## 🧠 About Me
 
 - 🔭 I'm currently working on frontend projects
-- 🌱 Learning JavaScript, React,GSAP,DSA & Leetcode Enthusiast
+- 🌱 Learning JavaScript, React, GSAP, DSA & Leetcode Enthusiast
 - 🎯 Goal: Become a Full Stack Developer
 - 💡 I love building interactive web apps
 
@@ -38,45 +38,42 @@
 
 ## ⚒️ Languages & Tools
 
-🌐 Frontend
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML5
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS3 (Flexbox, Grid, Animations)
+### 🛠 Tools & Editors
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript (DOM, ES6+) 
+### 🗄 Database
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> Learning: React.js
+### ✨ Animation & Libraries
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50" height="50" alt="GSAP"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> Bootstrap
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> Tailwind CSS
-
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30"/>  GSAP(Javascript Animation Library)
-
-💻 Programming Languages
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python
-
-🛠 Tools & Editors
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> VS Code
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub
-
-🗄 Database
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL
 ---
-
 
 ## 🚀 Projects
 
@@ -100,25 +97,25 @@ A frontend clone of Amazon's e-commerce UI.
 An interactive Tic-Tac-Toe game built using JavaScript.
 
 👉 Features
-. Two Player Mode
-. Win Detection
-. Reset Functionality
+- Two Player Mode
+- Win Detection
+- Reset Functionality
 
 ### 🎮 [Rock Paper Scissors Game](https://github.com/HafizEngineerMuhammadAbdullah/MyRock-Paper-ScissorGame)
 A simple JavaScript game based on logic building and DOM manipulation.
 
 👉 Features
-. Score Tracking
-. Dynamic UI
-. Interactive Gameplay
+- Score Tracking
+- Dynamic UI
+- Interactive Gameplay
 
 ### ⏱️ [Stopwatch App](https://github.com/HafizEngineerMuhammadAbdullah/MyStopWatch)
 A fully functional stopwatch application.
 
 👉 Features
-. Start / Stop / Reset
-. Real-time Time Updates
-. Interactive UI
+- Start / Stop / Reset
+- Real-time Time Updates
+- Interactive UI
 
 ## 📊 GitHub Stats
 
@@ -128,13 +125,14 @@ A fully functional stopwatch application.
 
 ## 📫 Connect With Me
 
-- GitHub:  https://github.com/HafizEngineerMuhammadAbdullah
-- LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-360a87384/  
-- Email: abdullahkhalid2k25@gmail.com  
+- **GitHub**: https://github.com/HafizEngineerMuhammadAbdullah
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-abdullah-360a87384/  
+- **Email**: abdullahkhalid2k25@gmail.com  
 
 ---
-⭐ Quote 
+
+⭐ **Quote** 
 - "Consistency is more important than perfection"
 
-- ⚡ Fun Fact
-I enjoy turning creative ideas into interactive web experiences 🚀
+⚡ **Fun Fact**
+- I enjoy turning creative ideas into interactive web experiences 🚀

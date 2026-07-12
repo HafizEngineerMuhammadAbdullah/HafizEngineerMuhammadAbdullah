@@ -1,6 +1,8 @@
 <style>
 .wave {
   animation: wave 2s infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
 }
 
 @keyframes wave {
@@ -24,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&lines=💻+Frontend+Developer;⚛️+React+%7C+JavaScript;✨+GSAP+Animations;🎯+Problem+Solver&color=00FF00&background=0D1117" alt="Coding GIF"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&multiline=true&width=435&lines=💻+Frontend+Developer;⚛️+React+%7C+JavaScript;✨+GSAP+Animation;🎬+Framer+Motion;🌐+Three.js;🚀+Web+Developer" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -88,6 +90,8 @@
 ### ✨ Animation & Libraries
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50" height="50" alt="GSAP"/>
+  <img src="https://raw.githubusercontent.com/framer/motion/main/logo.svg" width="50" height="50" alt="Framer Motion"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" width="50" height="50" alt="Three.js"/>
 </p>
 
 ---

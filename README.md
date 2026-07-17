@@ -149,14 +149,18 @@ A fully functional stopwatch application.
 
 ## 📊 GitHub Stats
 
+<!-- Detailed Stats Card (Stars, Commits, PRs, Issues) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizEngineerMuhammadAbdullah&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizEngineerMuhammadAbdullah&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="48%" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
+<!-- Donut / Pie Chart for Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=donut" width="38%" alt="Top Languages Donut"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=compact" width="48%" alt="Top Languages Compact"/>
 </p>
 
 ---
@@ -173,6 +177,18 @@ A fully functional stopwatch application.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafizEngineerMuhammadAbdullah&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---

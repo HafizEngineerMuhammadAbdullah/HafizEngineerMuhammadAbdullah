@@ -149,18 +149,16 @@ A fully functional stopwatch application.
 
 ## 📊 GitHub Stats
 
-<!-- Detailed Stats Card (Stars, Commits, PRs, Issues) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizEngineerMuhammadAbdullah&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="48%" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HafizEngineerMuhammadAbdullah&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Donut / Pie Chart for Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=donut" width="38%" alt="Top Languages Donut"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=compact" width="48%" alt="Top Languages Compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=donut&langs_count=6" alt="Top Languages Donut"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizEngineerMuhammadAbdullah&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages Compact"/>
 </p>
 
 ---
@@ -168,7 +166,7 @@ A fully functional stopwatch application.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafizEngineerMuhammadAbdullah&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HafizEngineerMuhammadAbdullah&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -184,11 +182,7 @@ A fully functional stopwatch application.
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/HafizEngineerMuhammadAbdullah/HafizEngineerMuhammadAbdullah/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

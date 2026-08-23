@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&multiline=true&width=520&height=260&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;+;%F0%9F%9F%A8+JavaScript+Enthusiast;+;%E2%9A%9B%EF%B8%8F+React+Developer;+;%F0%9F%8E%A8+GSAP+%26+Animation+Lover;+;%F0%9F%A7%A0+DSA+%26+Leetcode+Enthusiast;+;%F0%9F%A4%94+Problem+Solver;+;%F0%9F%9A%80+BSSE+Student&center=true&vCenter=true" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&multiline=true&width=520&height=260&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;+;%F0%9F%9F%A0+Passionate+Learner;+;%F0%9F%9A%80+Building+Cool+Stuff" alt="Typing SVG" />
   </a>
 </p>
 
@@ -69,6 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
 </p>
 
 ### 💻 Programming Languages

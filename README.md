@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&multiline=true&width=520&height=260&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;+;%F0%9F%9F%A0+Passionate+Learner;+;%F0%9F%9A%80+Building+Cool+Stuff" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&multiline=true&width=520&height=260&color=FF6B6B&lines=%F0%9F%92%BB+Frontend+Developer;+;%F0%9F%9F%A4%20AI%20Enthusiast;+;%F0%9F%8E%AF%20Problem%20Solver;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -102,6 +102,10 @@
 ### 🗄 Database
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/>
 </p>
 
 ### ✨ Animation & Libraries
